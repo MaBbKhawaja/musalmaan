@@ -12,7 +12,8 @@
 Thumbs.db
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
-
+/.angular
+/.history
 *.log
 log.txt
 npm-debug.log*
