@@ -1,0 +1,7 @@
+{
+  "name": "muslalmaan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
